@@ -15,3 +15,4 @@ $ pip install -r requirements.txt
 $ npm install
 $ bower install
 ```
+See live site example [here](https://peaceful-headland-15265.herokuapp.com).
